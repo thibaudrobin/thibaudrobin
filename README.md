@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Th1b4ud</h1>
+<h1 align="center">Hi 👋, I'm Thibaud</h1>
 <h3 align="center">Nice CEO and pentester at Trackflaw</h3>
 
 <h3 align="left">Connect with me:</h3>
